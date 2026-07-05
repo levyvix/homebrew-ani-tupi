@@ -1,8 +1,8 @@
 class AniTupi < Formula
   desc "Assista anime e leia mangá direto do terminal sem anúncios"
   homepage "https://github.com/levyvix/ani-tupi"
-  url "https://github.com/levyvix/ani-tupi/archive/refs/tags/v2.3.9.tar.gz"
-  sha256 "29cdf74501e4bb55df7e43e28051ecdfbfdbaff78c0834bc87e622a4a2a1164d"
+  url "https://github.com/levyvix/ani-tupi/archive/refs/tags/v2.4.0.tar.gz"
+  sha256 "85aaee92e4d4027c835637fef02c912d00fbb0291fba0b868c34229f1d606f93"
   license "GPL-3.0-only"
   head "https://github.com/levyvix/ani-tupi.git", branch: "master"
 
